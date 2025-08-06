@@ -1,0 +1,6 @@
+{
+  "name": "Song Link",
+  "description": "A music game that generates well-known pop or rock songs related to a keyword. The user inputs a keyword, and the app suggests song titles and artists with a word link to the keyword.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
